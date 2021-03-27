@@ -66,6 +66,11 @@ section {
     background-position: center;
     position: relative;
 }
+/* secondary page hero */
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
 /*hero style end*/
 
 /*hero form style*/
